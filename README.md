@@ -1,5 +1,5 @@
 ## **More of My Pages**:
----
+
 [sethromanowski.com](sethromanowski.com)
 
 [sethromanowski.tech](sethromanowski.tech)
