@@ -1,9 +1,5 @@
 ## **More of My Pages**:
-
-[sethromanowski.com](sethromanowski.com)
-
-[sethromanowski.tech](sethromanowski.tech)
-
-[sethromanowski.wordpress.com](sethromanowski.wordpress.com)
-
-[sethi.sgedu.site](sethi.sgedu.site)
+### **[SR Solutions](sethromanowski.com)**
+### **[SR Knowledgebase](https://sethromanowski.tech)**
+### **[Personal Wordpress](sethromanowski.wordpress.com)**
+### **[Education & Other](sethi.sgedu.site)** 
