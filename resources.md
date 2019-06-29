@@ -8,10 +8,15 @@
   - sethi518
 - FTP
   - Hostname: us229.siteground.us
+  - User Name: sitebuilder_sync_9d3fcb57@sethi.sgedu.site
   - Password: same as cPanel password
 
 [SiteGround Tutorials](https://www.siteground.com/tutorials/)
 
+**Namecheap**
+- Host: premium72.web-hosting.com
+- User Name: sethkafb
+- Password: Baseball33!
 
 Square
 - Lightning connector
